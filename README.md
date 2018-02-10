@@ -4,7 +4,7 @@ A collection of links to resources for anyone learning to code
 ###### [Interactive Tutorials](#interactive-tutorials)
 ###### [Books](#books)
 ##### [Talks](#talks)
-###### [Blogs and Articles](blogs-articles)
+###### [Blogs and Articles](#blogs-articles)
 ###### [Podcasts](#podcasts)
 
 
