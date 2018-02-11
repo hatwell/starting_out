@@ -6,6 +6,7 @@ A collection of links to resources for anyone learning to code
 ##### [Talks](#talks)
 ###### [Blogs and Articles](#blogs-articles)
 ###### [Podcasts](#podcasts)
+###### [Meetups](#meetups)
 
 
 ### About Me
@@ -26,6 +27,10 @@ This list is intended for *total beginners*. They're resources I've found along 
 * **Learn.co**
   * This is the best introduction I have found for total beginners. The reason it's so good is that it immediately places you in an environment analogous to one you'd be using as an actual developer. It mandates that you use git, and test driven development - two essential processes. Learn.co also has a fantastic community of learners, and a live chat functionality where other students will help you out when you get stuck. [Learn.co](https://learn.co/sign_up)
 
+* **FreeCodeCamp**
+ * Free CodeCamp is similar in style to CodeAcademy but in my experience it's more effective.
+Founded by [Quincy Larson](https://twitter.com/ossia), it takes you through a track of courses that presuppose no knowledge and move at a good pace. Starting with the fundamentals of HTML and CSS, FCC offers free certifications in Front End Development and Data Visualization. Ever better, once you've completed courses, you're able to gain experience and portfolio work because FCC link members up with non-profits who need development help. AND it's all totally free. **AND** there's a worldwide community of Free Code Camp members who host regular meetups where you can connect with other learners.
+[FreeCodeCamp](https://www.freecodecamp.org/).
 
 * **Udacity: Intro to HTML and CSS**
  * Udacity is an online learning portal, full of classes on all kinds of technical subjects. While they offer paid ongoing "nanodegree" programs, there is a wealth of free courses available. This course is a good introduction to the basic structure of a webpage and how to make things appear on it! It has a good combination of short videos and practical exercises, so I found it easy to follow and fit into my schedule.
@@ -46,7 +51,7 @@ This list is intended for *total beginners*. They're resources I've found along 
 
 #### <a name="talks"></a> Talks
 * **Stuff Everybody Knows Except You - Laurie Voss**
- * Laurie Voss of npm gave this talk at a bootcamp and it's the perfect thing to watch as a junior developer. Subtitled "A flythrough guide to Web Development's best practices", it covers topics that might be alien to a total beginner but are important to understand as soon as possible. These include debugging, databases and security. It's a whirlwind tour through a lot of aspects of programming, is super insightful, very accessible and most importantly, funny. [Part One](https://www.youtube.com/watch?v=JIJZnF_L5KI) // [Part Two](https://www.youtube.com/watch?v=4H8VTCSbYQg)
+ * [Laurie Voss](https://twitter.com/seldo) of npm gave this talk at a bootcamp and it's the perfect thing to watch as a junior developer. Subtitled "A flythrough guide to Web Development's best practices", it covers topics that might be alien to a total beginner but are important to understand as soon as possible. These include debugging, databases and security. It's a whirlwind tour through a lot of aspects of programming, is super insightful, very accessible and most importantly, funny. [Part One](https://www.youtube.com/watch?v=JIJZnF_L5KI) // [Part Two](https://www.youtube.com/watch?v=4H8VTCSbYQg)
  * A helpful person turned it into a infographic [here](https://www.hackreactor.com/blog/infographic-laurie-voss-things-everyone-knows-except-you).
 
 
@@ -64,4 +69,10 @@ This list is intended for *total beginners*. They're resources I've found along 
 
 
 * **CodeNewbie**
- * Code Newbie is a fun, open and diverse community of people all learning to code. The founder of the community - the amazing Saron Yitbarek - hosts this podcast. Every week she interviews someone from the world of coding, covering everything from the ethics of coding to getting your first job as a developer to accesibility. These interviews are all conducted with noobs in mind, so they become interesting deep dives, while remaining accessible. [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
+ * Code Newbie is a fun, open and diverse community of people all learning to code. The founder of the community - the amazing [Saron Yitbarek](https://twitter.com/saronyitbarek) - hosts this podcast. Every week she interviews someone from the world of coding, covering everything from the ethics of coding to getting your first job as a developer to accesibility. These interviews are all conducted with noobs in mind, so they become interesting deep dives, while remaining accessible. [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
+
+
+#### <a name="meetups"></a>Meetups
+
+* **CodeBar**
+ * Ok, I apprectiate that the thought of meetups can be a little bit scary. Meeting people - in real life? Ugh. Codebar is amazing. Its mission is *to enable underrepresented people to learn programming in a safe and collaborative environment* and it's perfect for beginners and specifically those from groups underrepresented in tech. They host meetups in cities all over the world where tech professionals volunteer their time to teach about different languages and technologies. In my experience it's been a fun and freeform environment where learners are paired with students based on what they want to learn. It's a great place to support your self-study and ask questions of other learners and people with tech industry experience. Plus, it's totally free and there's always food!
