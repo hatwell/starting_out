@@ -89,7 +89,7 @@ One of my favourite things that happened as a side effect of my learning to prog
 
 ##### Slack
 
-- There are SO MANY communities for you to join on Slack (and Discord) where there are tons of other people at various stages in their coding journey. You can share resources, ask people questions about what they do and get help debugging. Here are a few lists of communities you can join - I'd particularly recommend the CodeBar slack but there are TONS - find one you like!
+- There are SO MANY communities for you to join on Slack (and Discord) where there are tons of other people at various stages in their coding journey. You can share resources, ask people questions about what they do and get help debugging. Here are a few lists of communities you can join - I'd particularly recommend the CodeBar slack but there are TONS - find one you like! [List of slack communities](https://flatironschool.com/blog/the-11-best-slack-groups-for-new-programmers) // [Another list with some more to join!](https://blog.honeypot.io/21-slack-channels-for-software-developers/)
 
 ##### CodeNewbie
 
