@@ -10,7 +10,7 @@
 
 ## About Me
 
-After attending a great coding bootcamp ([CodeClan](http://www.codeclan.com)), I've been a software engineer for five years, and I've been coding in various ways since I was a teenager.
+After attending a great coding bootcamp ([CodeClan](http://www.codeclan.com)), I've been a software engineer for four years, and I've been coding in various ways since I was a teenager.
 This is an evolving list of free resources for people starting out. I'm including books, articles, interactive tutorials, and anything I have found useful.
 
 ### Disclaimer
